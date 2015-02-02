@@ -1,2 +1,25 @@
-# Web-Links
-Links to various web-related comics, news sources &amp; interesting sites.
+Interesting things to read, learn about, listen to.
+
+## Comics
+
+* http://www.commitstrip.com/
+* http://xkcd.com/
+
+## Humour
+* http://www.thedailywtf.com/
+
+## Learning
+* http://what-if.xkcd.com/
+
+## News
+
+## Blogs
+* http://blog.ircmaxell.com/
+* https://philsturgeon.uk/
+* http://mattstauffer.co/
+
+## Podcasts
+* http://qi.com/podcast
+* http://www.tested.com/still-untitled-the-adam-savage-project/
+* http://phptownhall.com/
+* http://threedevsandamaybe.com/
