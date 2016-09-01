@@ -17,9 +17,9 @@ Interesting things to read, learn about, listen to.
 * http://blog.ircmaxell.com/
 * https://philsturgeon.uk/
 * http://mattstauffer.co/
+* https://dannorth.net/blog/
+* https://lizkeogh.com
 
 ## Podcasts
 * http://qi.com/podcast
 * http://www.tested.com/still-untitled-the-adam-savage-project/
-* http://phptownhall.com/
-* http://threedevsandamaybe.com/
